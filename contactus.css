@@ -1,0 +1,122 @@
+body{
+    background-image: url(pics/background.jpeg);
+}
+
+header{
+    color: white;
+    font-size: 25px;
+
+}
+.navbar{
+    word-spacing: 90px;
+    text-align: center;
+    background-color: grey;
+    border: 20px solid grey;
+    
+}
+.n1{
+    color: rgb(0, 0, 255);
+    text-decoration: none;
+    
+}
+
+
+.pic1{
+    text-align: center;
+    word-spacing: 80px;
+}
+main{
+    height: 400px;
+    width: 900px;
+    background-color: rgba(255, 255, 255, 0.828);
+    margin-left: 500px;
+    margin-top: 150px;
+}
+.s2{
+  float: right;
+  margin-top: -85px;
+  color: rgb(0, 0, 0);
+  height: 25px;
+  
+  
+}
+.f1{
+    background-color: grey;
+    margin-top: 150px;
+    padding: 35px;
+}
+
+.form1{
+    margin-right: 10px;
+    margin-top: -25px;
+    padding: 10px;
+    background-color: rgba(128, 128, 128, 0.148);
+    text-align: center;
+    float: right;
+    display: inline-block;
+    color: rgb(0, 29, 246);
+    font-size: 18px;
+
+    
+
+}
+.nb1{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.n4{
+   
+    height: 50px;
+    width: 300px;
+}
+.n3b{
+    height: 30px;
+    width: 300px;
+}
+h2{
+    color: rgb(17, 0, 255);
+    text-decoration: underline;
+}
+footer{
+    margin-top: 260px;
+    background-color: rgb(4, 0, 255);
+    height: 60px;
+}
+.p1{
+    margin-left: 20px;
+}
+.reset{
+    color: rgb(0, 0, 255);
+    height: 30px;
+    width: 150px;
+
+}
+.submit{
+    color: rgb(8, 0, 255);
+    height: 30px;
+    width: 150px;
+}
+.s3{
+    float: right;
+    margin-top: -85px;
+    color: rgb(0, 0, 0);
+    
+  }
+ 
+  .suggestion {
+    cursor: pointer;
+    padding: 5px;
+    border: 1px solid #ccc;
+    margin-top: 2px;
+  }
+h3{
+  margin-top: -10px;
+}
+.su1{
+    background-color: rgb(255, 255, 255);
+    width: 180px;
+    color: rgb(191, 0, 255);
+    float: right;
+    margin-top: -60px;
+  
+  }

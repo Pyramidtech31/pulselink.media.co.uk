@@ -1,0 +1,61 @@
+body{
+    background-image: url(pics/background.jpeg);
+}
+
+header{
+    color: white;
+    font-size: 25px;
+
+}
+.navbar{
+    word-spacing: 90px;
+    text-align: center;
+    background-color: grey;
+    border: 20px solid grey;
+    
+}
+.nb1{
+    color: white;
+    text-decoration: none;
+    
+}
+
+  .s2{
+    float: right;
+    margin-top: -85px;
+    color: rgb(0, 0, 0);
+    height: 25px;
+  }
+ 
+.p1{
+  color: white;
+  width: 600px;
+  margin-left: 20px;
+  margin-left: 650px;
+  
+}
+h4{
+  color: rgb(246, 255, 0);
+  text-decoration: underline;
+}
+.suggestion {
+  cursor: pointer;
+  padding: 5px;
+  border: 1px solid #ccc;
+  margin-top: 2px;
+}
+.su1{
+  background-color: rgb(255, 255, 255);
+  width: 180px;
+  color: rgb(191, 0, 255);
+  float: right;
+  margin-top: -60px;
+
+}
+.info{
+  text-align: center;
+}
+h2{
+  color: white;
+  text-decoration: underline;
+}

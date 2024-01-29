@@ -1,0 +1,101 @@
+body{
+    background-image: url(pics/background.jpeg);
+}
+
+header{
+    color: white;
+    font-size: 25px;
+
+}
+.navbar{
+    word-spacing: 90px;
+    text-align: center;
+    background-color: grey;
+    border: 20px solid grey;
+    
+}
+.n1{
+    color: white;
+    text-decoration: none;
+    
+}
+.i1{
+  color:  rgb(191, 0, 255);
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 35px;
+  
+}
+.i2{
+    color: yellow;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 35px;
+    
+  }
+  .i3{
+    color:  rgb(191, 0, 255);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 35px;
+    
+  }
+  .i4{
+    color:  yellow;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 35px;
+    
+  }
+  .i5{
+    color: rgb(191, 0, 255);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 35px;
+    
+  }
+.pic1{
+    text-align: center;
+    word-spacing: 80px;
+}
+main{
+  margin-top: 50px;
+    height: 700px;
+    width: 900px;
+    background-color: rgba(255, 255, 255, 0.828);
+    margin-left: 500px;
+    padding: 15px;
+}
+.s2{
+  float: right;
+  margin-top: -125px;
+  color: rgb(0, 0, 0);
+  height: 50px;
+}
+.s3{
+  float: right;
+  margin-top: -125px;
+  color: rgb(72, 45, 45);
+}
+
+.o1{
+  color: rgb(15, 15, 15);
+}
+h2{
+  color:  rgb(191, 0, 255);
+  text-decoration: underline;
+}
+.suggestion {
+  cursor: pointer;
+  padding: 5px;
+  border: 1px solid #ccc;
+  margin-top: 2px;
+}
+.su1{
+  background-color: rgb(255, 255, 255);
+  width: 180px;
+  color: rgb(191, 0, 255);
+  float: right;
+  margin-top: -103px;
+
+}
